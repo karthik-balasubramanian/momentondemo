@@ -2,4 +2,4 @@
 
 Execution steps:
   1) mvnw compile
-  2) mvn spring-boot:run
+  2) mvnw spring-boot:run
